@@ -1,0 +1,128 @@
+,Unnamed: 0,index,occgrpnm2,%,year,candidate
+0,0,Healthcare practitioners,9638,0.16591781576546333,16,trump
+1,1,Management,8402,0.14464012119334124,16,trump
+2,2,Sales and related,7900,0.13599820964382242,16,trump
+3,3,Business and financial,4369,0.0752121744220076,16,trump
+4,4,Architecture and engineering,4008,0.06899757269018231,16,trump
+5,5,Legal,3654,0.06290347570107938,16,trump
+6,6,Personal care and service,3565,0.06137134397218062,16,trump
+7,7,Administrative support,2332,0.040145294289796685,16,trump
+8,8,Construction and extraction,2205,0.0379589939575479,16,trump
+9,9,Transportation and material moving,2143,0.03689166623629258,16,trump
+10,10,"Education, training, library",1808,0.031124653548864675,16,trump
+11,11,Computer and mathematical,1634,0.02812924994405137,16,trump
+12,12,Arts and entertainment,1242,0.02138098435159841,16,trump
+13,13,Production,943,0.016233710341028426,16,trump
+14,14,"Life, physical, social science",923,0.015889411076107352,16,trump
+15,15,Protective service,913,0.015717261443646817,16,trump
+16,16,"Installation, maintenance, repair",822,0.014150699788255953,16,trump
+17,17,Community and social service,656,0.011293015889411076,16,trump
+18,18,Healthcare support,257,0.004424245554235742,16,trump
+19,19,Building and grounds maintenance,250,0.004303740811513367,16,trump
+20,20,Food preparation and serving,227,0.003907796656854139,16,trump
+21,21,"Farming, fishing, forestry",198,0.003408562722718587,16,trump
+22,0,Healthcare practitioners,1944,0.17507204610951008,12,romney
+23,1,Management,1387,0.1249099423631124,12,romney
+24,2,Personal care and service,1303,0.11734510086455333,12,romney
+25,3,Sales and related,1257,0.11320244956772335,12,romney
+26,4,Legal,1155,0.10401657060518732,12,romney
+27,5,Business and financial,1024,0.09221902017291066,12,romney
+28,6,Architecture and engineering,750,0.06754322766570606,12,romney
+29,7,"Education, training, library",415,0.03737391930835735,12,romney
+30,8,Administrative support,312,0.028097982708933718,12,romney
+31,9,Arts and entertainment,312,0.028097982708933718,12,romney
+32,10,Computer and mathematical,305,0.02746757925072046,12,romney
+33,11,"Life, physical, social science",209,0.018822046109510087,12,romney
+34,12,Transportation and material moving,205,0.018461815561959652,12,romney
+35,13,Construction and extraction,158,0.014229106628242075,12,romney
+36,14,Protective service,96,0.008645533141210375,12,romney
+37,15,Community and social service,73,0.006574207492795389,12,romney
+38,16,Production,60,0.005403458213256484,12,romney
+39,17,"Installation, maintenance, repair",41,0.0036923631123919314,12,romney
+40,18,Healthcare support,40,0.0036023054755043226,12,romney
+41,19,"Farming, fishing, forestry",26,0.0023414985590778092,12,romney
+42,20,Building and grounds maintenance,22,0.001981268011527377,12,romney
+43,21,Food preparation and serving,10,0.0009005763688760807,12,romney
+44,0,Healthcare practitioners,7193,0.15850944269375702,8,mccain
+45,1,Personal care and service,6348,0.1398884946781551,8,mccain
+46,2,Management,6265,0.1380594548139007,8,mccain
+47,3,Legal,5767,0.12708521562837435,8,mccain
+48,4,Sales and related,4348,0.09581524493708543,8,mccain
+49,5,Business and financial,3676,0.08100663302408602,8,mccain
+50,6,Architecture and engineering,2653,0.0584631657815289,8,mccain
+51,7,"Education, training, library",1788,0.03940148526851627,8,mccain
+52,8,Administrative support,1248,0.02750170783842747,8,mccain
+53,9,Arts and entertainment,1179,0.025981180722360563,8,mccain
+54,10,Computer and mathematical,1052,0.02318252936380264,8,mccain
+55,11,"Life, physical, social science",977,0.021529782498512527,8,mccain
+56,12,Transportation and material moving,616,0.013574560920249454,8,mccain
+57,13,Construction and extraction,523,0.011525154807289715,8,mccain
+58,14,Protective service,521,0.011481081557548643,8,mccain
+59,15,Community and social service,415,0.009145199321271951,8,mccain
+60,16,Production,278,0.006126181714008682,8,mccain
+61,17,"Installation, maintenance, repair",221,0.004870094096388197,8,mccain
+62,18,"Farming, fishing, forestry",110,0.002424028735758831,8,mccain
+63,19,Building and grounds maintenance,76,0.001674783490160647,8,mccain
+64,20,Food preparation and serving,66,0.0014544172414552984,8,mccain
+65,21,Healthcare support,59,0.0013001608673615546,8,mccain
+66,0,Personal care and service,4596,0.16562759018343004,4,bush
+67,1,Healthcare practitioners,4128,0.1487621175537857,4,bush
+68,2,Management,3371,0.12148185520198924,4,bush
+69,3,Sales and related,2888,0.10407582255216404,4,bush
+70,4,Legal,2690,0.09694043028577606,4,bush
+71,5,Business and financial,2172,0.07827309092219539,4,bush
+72,6,Architecture and engineering,1466,0.05283073263901402,4,bush
+73,7,Administrative support,1176,0.04237990558218314,4,bush
+74,8,"Education, training, library",1158,0.041731233557966055,4,bush
+75,9,Computer and mathematical,674,0.02428916357346211,4,bush
+76,10,Arts and entertainment,646,0.023280118202457747,4,bush
+77,11,"Life, physical, social science",534,0.019243936718440303,4,bush
+78,12,Transportation and material moving,511,0.018415078020829583,4,bush
+79,13,Protective service,420,0.01513568056506541,4,bush
+80,14,Construction and extraction,399,0.014378896536812137,4,bush
+81,15,Community and social service,305,0.010991387077011784,4,bush
+82,16,Production,213,0.007675952286568886,4,bush
+83,17,"Installation, maintenance, repair",174,0.006270496234098526,4,bush
+84,18,Building and grounds maintenance,68,0.002450538758153447,4,bush
+85,19,Healthcare support,59,0.0021262027460449027,4,bush
+86,20,"Farming, fishing, forestry",53,0.0019099787379725395,4,bush
+87,21,Food preparation and serving,48,0.0017297920645789038,4,bush
+88,0,Management,322,0.17770419426048564,0,bush
+89,1,Legal,300,0.16556291390728478,0,bush
+90,2,Personal care and service,287,0.15838852097130246,0,bush
+91,3,Healthcare practitioners,213,0.1175496688741722,0,bush
+92,4,Business and financial,196,0.10816777041942603,0,bush
+93,5,Sales and related,145,0.08002207505518764,0,bush
+94,6,Architecture and engineering,110,0.06070640176600441,0,bush
+95,7,"Life, physical, social science",48,0.026490066225165563,0,bush
+96,8,"Education, training, library",46,0.025386313465783662,0,bush
+97,9,Computer and mathematical,36,0.019867549668874173,0,bush
+98,10,Arts and entertainment,28,0.015452538631346581,0,bush
+99,11,Transportation and material moving,20,0.011037527593818984,0,bush
+100,12,Construction and extraction,20,0.011037527593818984,0,bush
+101,13,Administrative support,12,0.006622516556291391,0,bush
+102,14,Protective service,7,0.0038631346578366452,0,bush
+103,15,Production,7,0.0038631346578366452,0,bush
+104,16,"Installation, maintenance, repair",6,0.0033112582781456954,0,bush
+105,17,Community and social service,4,0.002207505518763797,0,bush
+106,18,Food preparation and serving,2,0.0011037527593818985,0,bush
+107,19,Healthcare support,1,0.0005518763796909492,0,bush
+108,20,Building and grounds maintenance,1,0.0005518763796909492,0,bush
+109,21,"Farming, fishing, forestry",1,0.0005518763796909492,0,bush
+110,0,Healthcare practitioners,31,0.3522727272727273,96,dole
+111,1,Personal care and service,21,0.23863636363636365,96,dole
+112,2,Legal,19,0.2159090909090909,96,dole
+113,3,Business and financial,6,0.06818181818181818,96,dole
+114,4,Arts and entertainment,4,0.045454545454545456,96,dole
+115,5,Sales and related,3,0.03409090909090909,96,dole
+116,6,"Education, training, library",2,0.022727272727272728,96,dole
+117,7,"Life, physical, social science",2,0.022727272727272728,96,dole
+118,0,Personal care and service,82,0.485207100591716,92,bush
+119,1,Legal,41,0.242603550295858,92,bush
+120,2,Healthcare practitioners,23,0.13609467455621302,92,bush
+121,3,Business and financial,13,0.07692307692307693,92,bush
+122,4,Sales and related,5,0.02958579881656805,92,bush
+123,5,"Life, physical, social science",2,0.01183431952662722,92,bush
+124,6,Architecture and engineering,1,0.005917159763313609,92,bush
+125,7,Construction and extraction,1,0.005917159763313609,92,bush
+126,8,Arts and entertainment,1,0.005917159763313609,92,bush

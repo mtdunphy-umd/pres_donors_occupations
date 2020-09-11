@@ -1,0 +1,147 @@
+,Unnamed: 0,index,occgrpnm2,%,year,candidate
+0,0,"Education, training, library",7695,0.1491625959525471,16,clinton
+1,1,Legal,6613,0.1281887260603241,16,clinton
+2,2,Arts and entertainment,6452,0.12506784523532605,16,clinton
+3,3,Healthcare practitioners,5532,0.1072342405210514,16,clinton
+4,4,Management,3868,0.07497867721175468,16,clinton
+5,5,Business and financial,3298,0.06392959603008451,16,clinton
+6,6,Computer and mathematical,2840,0.055051562378847785,16,clinton
+7,7,"Life, physical, social science",2764,0.05357835155462511,16,clinton
+8,8,Sales and related,2754,0.053384508025122124,16,clinton
+9,9,Personal care and service,2546,0.04935256261146003,16,clinton
+10,10,Architecture and engineering,2219,0.04301387919671242,16,clinton
+11,11,Administrative support,1751,0.033942002015972715,16,clinton
+12,12,Community and social service,1232,0.02388152283476777,16,clinton
+13,13,Transportation and material moving,472,0.009149414592540902,16,clinton
+14,14,Production,338,0.0065519112972009,16,clinton
+15,15,Healthcare support,311,0.006028533767542839,16,clinton
+16,16,Protective service,256,0.004962394355276421,16,clinton
+17,17,Construction and extraction,236,0.004574707296270451,16,clinton
+18,18,Food preparation and serving,172,0.003334108707451345,16,clinton
+19,19,Building and grounds maintenance,129,0.002500581530588509,16,clinton
+20,20,"Installation, maintenance, repair",105,0.002035357059781345,16,clinton
+21,21,"Farming, fishing, forestry",5,9.69217647514926e-05,16,clinton
+22,0,"Education, training, library",7572,0.17103747374127531,12,obama
+23,1,Healthcare practitioners,6655,0.15032413995617902,12,obama
+24,2,Legal,4849,0.10952994059316484,12,obama
+25,3,Arts and entertainment,3181,0.07185290596553047,12,obama
+26,4,Business and financial,2702,0.061033181992726615,12,obama
+27,5,Personal care and service,2492,0.05628967043888776,12,obama
+28,6,Sales and related,2475,0.055905671884529384,12,obama
+29,7,Management,2343,0.052924036050687816,12,obama
+30,8,"Life, physical, social science",2311,0.052201215242483785,12,obama
+31,9,Architecture and engineering,1998,0.045131124212238256,12,obama
+32,10,Computer and mathematical,1937,0.04375324704659935,12,obama
+33,11,Administrative support,1797,0.04059090601070679,12,obama
+34,12,Community and social service,1556,0.03514716179892029,12,obama
+35,13,Transportation and material moving,722,0.016308644485103115,12,obama
+36,14,Construction and extraction,371,0.008380203745115312,12,obama
+37,15,Protective service,301,0.006799033227169027,12,obama
+38,16,Healthcare support,270,0.006098800569221387,12,obama
+39,17,Production,248,0.005601861263581125,12,obama
+40,18,"Installation, maintenance, repair",191,0.004314336698967722,12,obama
+41,19,Food preparation and serving,171,0.0038625736938402116,12,obama
+42,20,Building and grounds maintenance,108,0.0024395202276885552,12,obama
+43,21,"Farming, fishing, forestry",21,0.00047435115538388563,12,obama
+44,0,Legal,23645,0.15839468378003604,8,obama
+45,1,"Education, training, library",23492,0.1573697573000891,8,obama
+46,2,Healthcare practitioners,17281,0.11576310130694875,8,obama
+47,3,Arts and entertainment,15771,0.1056478138251194,8,obama
+48,4,Management,9704,0.06500579451898794,8,obama
+49,5,Business and financial,9016,0.060396974792167685,8,obama
+50,6,Computer and mathematical,8911,0.059693593874557034,8,obama
+51,7,"Life, physical, social science",8024,0.05375169983721756,8,obama
+52,8,Sales and related,6650,0.04454745811534108,8,obama
+53,9,Architecture and engineering,6463,0.04329477019540592,8,obama
+54,10,Personal care and service,5844,0.039148172214444096,8,obama
+55,11,Administrative support,5141,0.03443886949939375,8,obama
+56,12,Community and social service,4234,0.02836299814441415,8,obama
+57,13,Transportation and material moving,1209,0.008098928851345466,8,obama
+58,14,Construction and extraction,799,0.005352393839722935,8,obama
+59,15,Production,734,0.004916967557392534,8,obama
+60,16,Protective service,625,0.00418679117625386,8,obama
+61,17,Healthcare support,579,0.0038786433456815756,8,obama
+62,18,Food preparation and serving,533,0.0035704955151092924,8,obama
+63,19,"Installation, maintenance, repair",346,0.0023178075951741373,8,obama
+64,20,Building and grounds maintenance,198,0.001326375444637223,8,obama
+65,21,"Farming, fishing, forestry",80,0.0005359092705604941,8,obama
+66,0,Legal,3999,0.3604326273095989,4,kerry
+67,1,Arts and entertainment,1109,0.09995493465525013,4,kerry
+68,2,Management,1034,0.09319513294276703,4,kerry
+69,3,"Education, training, library",879,0.07922487607030193,4,kerry
+70,4,Healthcare practitioners,842,0.07589004055881028,4,kerry
+71,5,Personal care and service,690,0.06219017575484453,4,kerry
+72,6,Business and financial,616,0.0555205047318612,4,kerry
+73,7,Sales and related,479,0.04317260027039207,4,kerry
+74,8,"Life, physical, social science",472,0.04254168544389365,4,kerry
+75,9,Architecture and engineering,317,0.028571428571428567,4,kerry
+76,10,Computer and mathematical,230,0.020730058584948176,4,kerry
+77,11,Community and social service,159,0.014330779630464172,4,kerry
+78,12,Administrative support,116,0.010455159981973862,4,kerry
+79,13,Transportation and material moving,35,0.003154574132492113,4,kerry
+80,14,Construction and extraction,32,0.0028841820639927893,4,kerry
+81,15,Production,29,0.002613789995493465,4,kerry
+82,16,Protective service,16,0.0014420910319963946,4,kerry
+83,17,Healthcare support,12,0.0010815682739972962,4,kerry
+84,18,Food preparation and serving,12,0.0010815682739972962,4,kerry
+85,19,Building and grounds maintenance,8,0.0007210455159981973,4,kerry
+86,20,"Installation, maintenance, repair",7,0.0006309148264984228,4,kerry
+87,21,"Farming, fishing, forestry",2,0.00018026137899954936,4,kerry
+88,0,Legal,764,0.3403118040089087,0,gore
+89,1,Healthcare practitioners,260,0.1158129175946548,0,gore
+90,2,"Education, training, library",204,0.09086859688195993,0,gore
+91,3,Personal care and service,184,0.08195991091314031,0,gore
+92,4,Management,171,0.07616926503340757,0,gore
+93,5,Arts and entertainment,162,0.07216035634743875,0,gore
+94,6,Sales and related,98,0.04365256124721604,0,gore
+95,7,"Life, physical, social science",95,0.04231625835189309,0,gore
+96,8,Business and financial,93,0.04142538975501114,0,gore
+97,9,Computer and mathematical,75,0.0334075723830735,0,gore
+98,10,Architecture and engineering,62,0.027616926503340758,0,gore
+99,11,Community and social service,29,0.01291759465478842,0,gore
+100,12,Administrative support,20,0.008908685968819599,0,gore
+101,13,Transportation and material moving,10,0.004454342984409799,0,gore
+102,14,Construction and extraction,6,0.00267260579064588,0,gore
+103,15,Production,5,0.0022271714922049,0,gore
+104,16,Protective service,3,0.00133630289532294,0,gore
+105,17,"Farming, fishing, forestry",3,0.00133630289532294,0,gore
+106,18,"Installation, maintenance, repair",1,0.00044543429844097997,0,gore
+107,0,Legal,764,0.3403118040089087,96,clinton
+108,1,Healthcare practitioners,260,0.1158129175946548,96,clinton
+109,2,"Education, training, library",204,0.09086859688195993,96,clinton
+110,3,Personal care and service,184,0.08195991091314031,96,clinton
+111,4,Management,171,0.07616926503340757,96,clinton
+112,5,Arts and entertainment,162,0.07216035634743875,96,clinton
+113,6,Sales and related,98,0.04365256124721604,96,clinton
+114,7,"Life, physical, social science",95,0.04231625835189309,96,clinton
+115,8,Business and financial,93,0.04142538975501114,96,clinton
+116,9,Computer and mathematical,75,0.0334075723830735,96,clinton
+117,10,Architecture and engineering,62,0.027616926503340758,96,clinton
+118,11,Community and social service,29,0.01291759465478842,96,clinton
+119,12,Administrative support,20,0.008908685968819599,96,clinton
+120,13,Transportation and material moving,10,0.004454342984409799,96,clinton
+121,14,Construction and extraction,6,0.00267260579064588,96,clinton
+122,15,Production,5,0.0022271714922049,96,clinton
+123,16,Protective service,3,0.00133630289532294,96,clinton
+124,17,"Farming, fishing, forestry",3,0.00133630289532294,96,clinton
+125,18,"Installation, maintenance, repair",1,0.00044543429844097997,96,clinton
+126,0,Legal,297,0.3842173350582148,92,clinton
+127,1,Healthcare practitioners,134,0.17335058214747734,92,clinton
+128,2,Personal care and service,90,0.11642949547218627,92,clinton
+129,3,Arts and entertainment,86,0.11125485122897802,92,clinton
+130,4,"Life, physical, social science",32,0.04139715394566624,92,clinton
+131,5,"Education, training, library",30,0.038809831824062085,92,clinton
+132,6,Business and financial,26,0.03363518758085381,92,clinton
+133,7,Sales and related,25,0.03234152652005175,92,clinton
+134,8,Community and social service,12,0.01552393272962484,92,clinton
+135,9,Computer and mathematical,11,0.014230271668822769,92,clinton
+136,10,Architecture and engineering,10,0.0129366106080207,92,clinton
+137,11,Administrative support,6,0.0077619663648124185,92,clinton
+138,12,Production,5,0.00646830530401035,92,clinton
+139,13,Management,2,0.00258732212160414,92,clinton
+140,14,Transportation and material moving,2,0.00258732212160414,92,clinton
+141,15,"Farming, fishing, forestry",1,0.00129366106080207,92,clinton
+142,16,Protective service,1,0.00129366106080207,92,clinton
+143,17,Healthcare support,1,0.00129366106080207,92,clinton
+144,18,Construction and extraction,1,0.00129366106080207,92,clinton
+145,19,"Installation, maintenance, repair",1,0.00129366106080207,92,clinton
